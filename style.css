@@ -531,6 +531,8 @@ main {
 .bitcoin-img-container{
     width: 100%;
     min-width: 320px;
+    min-height: 500px; 
+    background-attachment: fixed;
     height: 50vh;
     background-image: url('./assets/imgs/bitcoinbaby2x.jpg');
     background-position: center;
