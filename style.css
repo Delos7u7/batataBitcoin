@@ -163,7 +163,7 @@ main {
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    text-align: left;
+    text-align: center;
     margin-left: 25px;
     color: var(--bitcoin-orange);
 
@@ -267,7 +267,7 @@ main {
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
-    text-align: left;
+    text-align: center;
     margin-left: 25px;
     color: var(--secondary-blue);
 }

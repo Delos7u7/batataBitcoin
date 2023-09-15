@@ -13,3 +13,20 @@
 .plans-container--slider{
     justify-content: center;
 }
+
+.main-exchange-container{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.main-exchange-container .main-exchange-container-title{
+    padding-top: 100px;
+    padding-right: 50px;
+    margin-left: 100px;
+}
+.main-exchange-container .background-img{
+    padding-top: 230px;
+    width: 1000px;
+    margin: 0 auto;
+}
